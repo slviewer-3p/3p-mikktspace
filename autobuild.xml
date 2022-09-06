@@ -20,7 +20,7 @@
         <key>common</key>
         <map>
           <key>build_directory</key>
-          <string>vulkan_gltf</string>
+          <string>mikktspace</string>
           <key>configurations</key>
           <map>
             <key>default</key>
