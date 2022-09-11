@@ -4,7 +4,7 @@
     <key>package_description</key>
     <map>
       <key>canonical_repo</key>
-      <string>https://bitbucket.org/lindenlab/3p-mikktspace</string>
+      <string>https://github.com/slviewer-3p/3p-mikktspace</string>
       <key>copyright</key>
       <string>Copyright (C) 2011 by Morten S. Mikkelsen</string>
       <key>description</key>
